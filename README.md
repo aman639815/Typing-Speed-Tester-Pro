@@ -38,10 +38,3 @@ WPM = (Total Characters Typed / 5) / Time in Minutes
 ## How Accuracy is Calculated
 Accuracy = (Correct Characters / Total Characters) × 100
 
-▶️ How to Run
-g++ -std=c++11 TypingSpeedTesterPro.cpp -o app
-./app
-Using VS Code / Dev C++ / CodeBlocks
-Open the project file
-Compile & Run
-Start typing test
