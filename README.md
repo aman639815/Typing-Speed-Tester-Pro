@@ -33,8 +33,8 @@ This project measures typing speed, typing accuracy, and performance using a tim
 ## 📌 How WPM is Calculated
 ## 📸 Screenshots
 
-### Main Menu
-![Main Menu](images/Typing.png)
+### Typing Screen
+![Typing screen](images/Typing.png)
 
 ### Leaderboard
 ![Leaderboard](images/leaderboard.png)
