@@ -34,7 +34,7 @@ This project measures typing speed, typing accuracy, and performance using a tim
 ## 📸 Screenshots
 
 ### Main Menu
-![Main Menu](images/Typing test.png)
+![Main Menu](images/Typing.png)
 
 ### Leaderboard
 ![Leaderboard](images/leaderboard.png)
