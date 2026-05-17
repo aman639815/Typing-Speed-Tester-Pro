@@ -31,6 +31,16 @@ This project measures typing speed, typing accuracy, and performance using a tim
 ---
 
 ## 📌 How WPM is Calculated
+## 📸 Screenshots
+
+### Main Menu
+![Main Menu](images/Typing test.png)
+
+### Result Screen
+![Result](images/leader board.png)
+
+### Leaderboard
+![Leaderboard](images/leaderboard.png)
 
 text
 WPM = (Total Characters Typed / 5) / Time in Minutes
